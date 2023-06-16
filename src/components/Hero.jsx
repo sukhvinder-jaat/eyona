@@ -191,19 +191,19 @@ export const Hero = () => {
               </div>
             </div> */}
             <div className="d-grid tranform_image_hero">
-              <div className="headitems headitems1 p-sm-2 p-1">
+              <div className="heroitem heroitems1 p-sm-2 p-1">
                 <img src={laptop} alt="laptop" className="w-100" />
               </div>
-              <div className="headitems headitems2 p-sm-2 p-1">
+              <div className="heroitem heroitems2 p-sm-2 p-1">
                 <img src={graph} alt="graph" className="w-100 h-100" />
               </div>
-              <div className="headitems headitems3 p-sm-2 p-1">
+              <div className="heroitem heroitems3 p-sm-2 p-1">
                 <img src={meeting} alt="meeting" className="w-100" />
               </div>
-              <div className="headitems headitems4 p-sm-2 p-1">
+              <div className="heroitem heroitems4 p-sm-2 p-1">
                 <img src={people} alt="people" className="w-100" />
               </div>
-              <div className="headitems headitems5 p-sm-2 p-1">
+              <div className="heroitem heroitems5 p-sm-2 p-1">
                 <img src={elogo} alt="elogo" className="w-100 hero_top" />
               </div>
             </div>
